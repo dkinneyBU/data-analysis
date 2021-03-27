@@ -70,6 +70,6 @@ My conclusion therefore is, 68% predictive accuracy is not great, but given the 
 
 ### References
 [1] https://www.kaggle.com/bls/eating-health-module-dataset
-[2] https://www.ers.usda.gov/data-products/eating-and-health-module-atus/.
-[3] “Building Predictive Models in R” M. Kuhn, Journal of Statistics Software Vol 28, Issue 5, November 2008 American Statistical Association
+[2] https://www.ers.usda.gov/data-products/eating-and-health-module-atus/  
+[3] “Building Predictive Models in R” M. Kuhn, Journal of Statistics Software Vol 28, Issue 5, November 2008 American Statistical Association  
 [4]  “Beginners Tutorial on XGBoost and Parameter Tuning in R”  Manish Saraswat  n.d. https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-tutorial-on-xgboost-parameter-tuning-r/tutorial/
