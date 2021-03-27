@@ -21,6 +21,8 @@ I eliminated the last two datasets. EH Activity related only to secondary inform
 ### Data Preparation   
 
 After reviewing the definitions of the original 37 variables, I created a new dataset containing just these:  
+
+Variables | Description
 -------------|-------------------------------------------------------------------------
 eusoda	| Does the respondent consume soda
 eufastfd |	Has the respondent consumed fast food in the last 7 days
