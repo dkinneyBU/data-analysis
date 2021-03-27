@@ -69,7 +69,7 @@ The **American Time Use Survey (ATUS) Eating and Health (EH) Module** dataset is
 My conclusion therefore is, 68% predictive accuracy is not great, but given the possible reasons why it was not higher it compels me to say, it’s not terrible either. One other approach would be to also drop the respondent’s self-evaluation of their overall health. This is likely a highly subjective question to ask someone; I feel it is fair to say, most of us probably delude ourselves into thinking we’re in better shape than we actually are. Further, eliminating this variable would truly leave only “lifestyle” variables based on eating and exercise.
 
 ### References
-[1] https://www.kaggle.com/bls/eating-health-module-dataset
+[1] https://www.kaggle.com/bls/eating-health-module-dataset  
 [2] https://www.ers.usda.gov/data-products/eating-and-health-module-atus/  
 [3] “Building Predictive Models in R” M. Kuhn, Journal of Statistics Software Vol 28, Issue 5, November 2008 American Statistical Association  
 [4]  “Beginners Tutorial on XGBoost and Parameter Tuning in R”  Manish Saraswat  n.d. https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-tutorial-on-xgboost-parameter-tuning-r/tutorial/
